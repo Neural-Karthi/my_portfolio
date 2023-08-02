@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/my_portfolio/my_portfolio/static/css/main.11bb602a.css",
+    "main.js": "/my_portfolio/my_portfolio/static/js/main.12c3859f.js",
+    "static/js/787.a4e9d3c4.chunk.js": "/my_portfolio/my_portfolio/static/js/787.a4e9d3c4.chunk.js",
+    "static/media/Airline_project_Login.png": "/my_portfolio/my_portfolio/static/media/Airline_project_Login.289b59bb9c47f494d1ce.png",
+    "static/media/Airline_project_Logup.png": "/my_portfolio/my_portfolio/static/media/Airline_project_Logup.b7d3da5c84522164646b.png",
+    "static/media/Portfolio_photo.png": "/my_portfolio/my_portfolio/static/media/Portfolio_photo.5115127be234c60b9b16.png",
+    "static/media/Policy_plan_page.png": "/my_portfolio/my_portfolio/static/media/Policy_plan_page.14a2c93d07368f09e0d2.png",
+    "static/media/LIC_plan_summary.png": "/my_portfolio/my_portfolio/static/media/LIC_plan_summary.678365065fc6e1999b6d.png",
+    "static/media/LIC_Login.png": "/my_portfolio/my_portfolio/static/media/LIC_Login.9f34b5ae4c7a924727b7.png",
+    "static/media/yummy_Login_page.png": "/my_portfolio/my_portfolio/static/media/yummy_Login_page.a84d80d7647b7bc7b699.png",
+    "static/media/LIC_registration.png": "/my_portfolio/my_portfolio/static/media/LIC_registration.8808fa839532f0e19ebf.png",
+    "static/media/LIC_registration_2.png": "/my_portfolio/my_portfolio/static/media/LIC_registration_2.943cd2055275850f85a0.png",
+    "static/media/Airline_project_homepage.png": "/my_portfolio/my_portfolio/static/media/Airline_project_homepage.b99d591cf3666b2c2b1e.png",
+    "static/media/yummy_Home_page.png": "/my_portfolio/my_portfolio/static/media/yummy_Home_page.e4200f34d53f240edca8.png",
+    "static/media/face_expression_output2.png": "/my_portfolio/my_portfolio/static/media/face_expression_output2.abd65f2607306f410185.png",
+    "static/media/face_expression_output3.png": "/my_portfolio/my_portfolio/static/media/face_expression_output3.abaa07ba086ab0521c5c.png",
+    "static/media/system_architecture2.png": "/my_portfolio/my_portfolio/static/media/system_architecture2.7386323cc467f13a37c4.png",
+    "static/media/face_expression_output.png": "/my_portfolio/my_portfolio/static/media/face_expression_output.d1c92e6faad7f6f14244.png",
+    "static/media/system_architecture.png": "/my_portfolio/my_portfolio/static/media/system_architecture.6806659143cf9fd2ba4c.png",
+    "static/media/myphoto.jpg": "/my_portfolio/my_portfolio/static/media/myphoto.1f64387fc4c78245ed19.jpg",
+    "static/media/yummy_hotel_pagr.png": "/my_portfolio/my_portfolio/static/media/yummy_hotel_pagr.8db2fa0bb2014fb9cf8b.png",
+    "static/media/yummy_payment.png": "/my_portfolio/my_portfolio/static/media/yummy_payment.64c8dd454c48f8940f90.png",
+    "static/media/Airline_project_passengerdetails.png": "/my_portfolio/my_portfolio/static/media/Airline_project_passengerdetails.8824a88eb16e33b9725c.png",
+    "static/media/yummy_user_details.png": "/my_portfolio/my_portfolio/static/media/yummy_user_details.6f2a7464913b5ccd9e7c.png",
+    "static/media/Airline_project_payment.png": "/my_portfolio/my_portfolio/static/media/Airline_project_payment.837de8d93d1d892a4d46.png",
+    "static/media/yummy_cart_page.png": "/my_portfolio/my_portfolio/static/media/yummy_cart_page.0302dbe9265429ac6ac1.png",
+    "static/media/facial_ecpressions.png": "/my_portfolio/my_portfolio/static/media/facial_ecpressions.acc501f2f79bff274ab9.png",
+    "static/media/yummy_Logup.png": "/my_portfolio/my_portfolio/static/media/yummy_Logup.d5f8089f023e0f1f4148.png",
+    "index.html": "/my_portfolio/my_portfolio/index.html",
+    "main.11bb602a.css.map": "/my_portfolio/my_portfolio/static/css/main.11bb602a.css.map",
+    "main.12c3859f.js.map": "/my_portfolio/my_portfolio/static/js/main.12c3859f.js.map",
+    "787.a4e9d3c4.chunk.js.map": "/my_portfolio/my_portfolio/static/js/787.a4e9d3c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11bb602a.css",
+    "static/js/main.12c3859f.js"
+  ]
+}
